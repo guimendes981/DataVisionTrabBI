@@ -8,6 +8,10 @@
 
 #### Cliente e produção: Relatório de produção da empresa Ypê, do ramo de produtos de limpeza. 
 
+- [x] Escolhido por ser um exemplo mais real e profissional de acordo com o mercado
+- [x] Relatório de carregamento e rendimento da Ypê
+- [x] Relatório de produtividade dos colaboradores
+
 #### Repositório contém:
 
 - [x] README.md contendo a descrição do projeto, membros e descrição do projeto
