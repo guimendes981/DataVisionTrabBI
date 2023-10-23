@@ -2,7 +2,7 @@
 
 #### Nome da empresa: DataVision
 
-#### Membros: Pedro Priori, Guilherme Mendes, Pedro Priori, Fernando Piana, Luiz Henrique
+#### Membros: Pedro Priori, Guilherme Mendes, Pedro Augusto, Fernando Piana, Luiz Henrique
 
 #### Descrição: Consiste em uma empresa de Business Intelligence que tem como objetivo auxiliar empresas a tomarem decisões baseadas em dados. Para isso, a empresa oferece serviços de coleta, tratamento, análise e visualização de dados. A empresa também oferece serviços de consultoria para auxiliar na tomada de decisões.
 
