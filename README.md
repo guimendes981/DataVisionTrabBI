@@ -15,5 +15,7 @@
 - [x] Arquivos de dashboard no Power BI
 - [x] Dentro do Power BI há a modelagem do banco de dados e etc
 - [x] Arquivos de apresentação e documentação 
+- [x] Modelagem pode ser encontrada na aba "ver modelagem" do powerBI
+
 
 #### Desde Já agradecemos.
